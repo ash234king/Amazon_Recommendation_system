@@ -87,3 +87,6 @@ The bag_of_words_model function takes a doc_id (index of the query product) and 
  -Product details: ASIN, Brand, Title.  
  -The Euclidean similarity score with the query image.  
  -The results are visualized with heatmaps showing word frequencies and an image of the recommended product.  
+
+ ## Dataset  
+The project utilizes the `tops_fashion.json` dataset. Due to GitHub's file size limitations, this dataset cannot be directly uploaded to this repository.  
